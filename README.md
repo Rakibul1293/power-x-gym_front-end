@@ -30,4 +30,3 @@ We build a “Power X GYM” or Fitness website. That helps people to keep up th
 - Node.js
 - MongoDB
 - Heroku
-"# power-x-gym_front-end" 
