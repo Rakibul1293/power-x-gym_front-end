@@ -1,4 +1,4 @@
-﻿# Power X GYM
+﻿# POWER X GYM
 ![](/power-x-gym.png?raw=true)
 
 # [Click to see Live Site](https://power-x-gym-a3e8a.firebaseapp.com)
